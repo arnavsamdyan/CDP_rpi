@@ -31,19 +31,19 @@ Check out the [Wiki](https://github.com/ClusterDuck-Protocol/ClusterDuck-Protoco
 
 
 ## How to Contribute
-
+N
 Development tasks are tracked publicly on our [Trello](https://trello.com/b/bU0cZuUJ/cdp-roadmap). Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our Code of Conduct and the process for submitting ClusterDuck Protocol improvements.
-
+I
 This project is governed by its [Technical Charter](ClusterDuck-Protocol-Technical-Charter.pdf) and led by its [Technical Steering Committee](https://github.com/Call-for-Code/ClusterDuck-Protocol/wiki/technical-steering-committee).
-
+G
 ## Contributors
-
+G
 <a href="https://github.com/Call-for-Code/clusterduck-protocol/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Call-for-Code/clusterduck-protocol" />
 </a>
-
+E
 ## License
-
+R
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
 
 [OWL Integrations]: <https://www.owlintegrations.com/>
